@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">School</string>
+
+    <string-array name="planets_array">
+        <item>Bulletin</item>
+        <item>Society</item>
+        <item>Assignments</item>
+        <item>Time Table</item>
+        <item>Events</item>
+        <item>Teachers</item>
+        <item>Contact</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_new_post">NewPost</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDHAjhehrR-QdKQiNHy-iVG4lbFjmNL4Ew
+    </string>
+
+</resources>

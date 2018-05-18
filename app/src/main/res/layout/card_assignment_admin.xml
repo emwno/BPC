@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/big_padding"
+    android:clickable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="@dimen/card_corner_radius">
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="5dp"
+        android:layout_height="fill_parent"
+        android:background="@color/primary" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/medium_padding">
+
+        <TextView
+            android:id="@+id/assignment_admin_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/small_padding"
+            android:paddingLeft="@dimen/medium_padding"
+            android:paddingRight="@dimen/medium_padding"
+            android:text="this is the title"
+            android:paddingTop="@dimen/medium_padding"
+            android:textColor="@color/text_dark"
+            android:textSize="@dimen/text_size_normal" />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/assignment_admin_title"
+            android:layout_toLeftOf="@+id/assignment_toggle"
+            android:background="@color/divider_gray" />
+
+        <!-- Row 1 -->
+        <TextView
+            android:id="@+id/title_posted_on"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view2"
+            android:paddingLeft="@dimen/medium_padding"
+            android:paddingTop="@dimen/small_padding"
+            android:text="Posted on: " />
+
+        <TextView
+            android:id="@+id/assignment_admin_posted_on"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view2"
+            android:layout_toRightOf="@+id/title_posted_on"
+            android:paddingTop="@dimen/small_padding"
+            android:paddingLeft="@dimen/medium_padding"
+            android:paddingRight="@dimen/medium_padding"
+            android:textColor="@color/text_light" />
+
+        <!-- Row 2 -->
+        <TextView
+            android:id="@+id/title_due_on"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title_posted_on"
+            android:paddingBottom="@dimen/medium_padding"
+            android:paddingLeft="@dimen/medium_padding"
+            android:paddingTop="@dimen/small_padding"
+            android:text="Due on: " />
+
+        <TextView
+            android:id="@+id/assignment_admin_due_on"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title_posted_on"
+            android:layout_toRightOf="@+id/title_due_on"
+            android:paddingTop="@dimen/small_padding"
+            android:paddingBottom="@dimen/medium_padding"
+            android:paddingLeft="@dimen/medium_padding"
+            android:paddingRight="@dimen/medium_padding"
+            android:textColor="@color/text_light" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/assignment_toggle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/big_padding"
+            app:borderWidth="0dp"
+            android:src="@drawable/ic_check_white_18dp"
+            app:fabSize="mini" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
