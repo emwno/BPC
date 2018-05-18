@@ -1,20 +1,8 @@
-# BPC
-Student Network
-
-Please present the following details to anyone testing the app, as they are required to login
-
-Administrator Login:
-Username: admin
-Password: admin
-
-User Login:
-Username: jon
-Password: snow
-
+# BPC (2015)
 The idea is to keep students of a specific school or university up to date via a centralised backend with an appealing design.
 
 Backend
-All data is served to the app by the means of a mBAAS, namely backendless. The server/databse setup can be recreated from the simple POJOs. 
+All data is served to the app by the means of a mBAAS, namely Parse (project retired). The server/databse setup can be recreated from the simple POJOs. 
 
 Security
 With steps taken to ensure security and reliability. HTTPS connections are made when connecting to the Backend for protection against hacks. Class and deep object level permissions to protect data from attacks.
