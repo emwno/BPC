@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/menu/search.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/menu/search.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/menu/menu_scrolling.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/student/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/menu/detail_menu.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/menu/detail_menu.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/menu/drawer.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/menu/drawer.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/menu/newpost_menu.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/menu/newpost_menu.xml"
+    }
+]

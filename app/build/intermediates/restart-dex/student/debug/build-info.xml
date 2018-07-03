@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="5706051021009" >
+
+    <task
+        name="javac"
+        duration="20617" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2989" />
+    <task
+        name="verifier"
+        duration="136" />
+
+    <artifact
+        location="/Users/Aashir/Desktop/School/app/build/outputs/apk/app-student-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="5706051021009" >
+        <artifact
+            location="/Users/Aashir/Desktop/School/app/build/outputs/apk/app-student-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

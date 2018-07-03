@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Aashir/Desktop/School/app/src/main/shaders"/></dataSet><dataSet config="student"><source path="/Users/Aashir/Desktop/School/app/src/student/shaders"/></dataSet><dataSet config="debug"><source path="/Users/Aashir/Desktop/School/app/src/debug/shaders"/></dataSet><dataSet config="studentDebug"><source path="/Users/Aashir/Desktop/School/app/src/studentDebug/shaders"/></dataSet></merger>

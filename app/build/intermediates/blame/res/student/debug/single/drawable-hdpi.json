@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_check_white_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_check_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_marker_check_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_marker_check_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_calendar_text_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_calendar_text_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_clock_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_clock_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_share_variant_grey600_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_share_variant_grey600_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_thumb_up_white_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_thumb_up_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_plus_white_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_plus_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_send_white_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_send_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_clock_fast_white_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_clock_fast_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_newspaper_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_newspaper_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_clock_fast_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_clock_fast_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_email_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_email_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_comment_text_grey600_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_comment_text_grey600_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_phone_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_phone_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_timetable_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_timetable_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_attachment_white_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_attachment_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_thumb_up_grey600_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_thumb_up_grey600_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_exit_to_app_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_exit_to_app_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_map_marker_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_map_marker_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_check_white_24dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_check_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_account_multiple_black_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_account_multiple_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_close_white_18dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_close_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-hdpi/ic_arrow_right_white_24dp.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-hdpi/ic_arrow_right_white_24dp.png"
+    }
+]

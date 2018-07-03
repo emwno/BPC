@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_bulletin"
+            android:checked="true"
+            android:icon="@drawable/ic_newspaper_black_18dp"
+            android:title="Bulletin" />
+        <item
+            android:id="@+id/navigation_society"
+            android:icon="@drawable/ic_account_multiple_black_18dp"
+            android:title="Society" />
+        <item
+            android:id="@+id/navigation_assignment"
+            android:icon="@drawable/ic_marker_check_black_18dp"
+            android:title="Assignments" />
+        <item
+            android:id="@+id/navigation_timetable"
+            android:icon="@drawable/ic_timetable_black_18dp"
+            android:title="Time Table" />
+        <item
+            android:id="@+id/navigation_event"
+            android:icon="@drawable/ic_calendar_text_black_18dp"
+            android:title="Events" />
+        <item
+            android:id="@+id/navigation_subheader"
+            android:title="School">
+            <menu>
+                <item
+                    android:id="@+id/navigation_teachers"
+                    android:icon="@drawable/ic_account_multiple_black_18dp"
+                    android:title="Teachers" />
+                <item
+                    android:id="@+id/navigation_contact"
+                    android:icon="@drawable/ic_email_black_18dp"
+                    android:title="Contact" />
+                <item
+                    android:id="@+id/navigation_logout"
+                    android:icon="@drawable/ic_exit_to_app_black_18dp"
+                    android:title="Logout" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

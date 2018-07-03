@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/fragment_contact.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_assignment.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/student/res/layout/card_assignment.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_detail_event_info.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_detail_event_info.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_contact.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_contact.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/intro_fragment_subject.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/student/res/layout/intro_fragment_subject.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_user.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_user.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_source.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_source.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/detail_post_activity.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/detail_post_activity.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/intro_fragment_subject_item.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/student/res/layout/intro_fragment_subject_item.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/new_post_activity.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/new_post_activity.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/header_navigation.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/header_navigation.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_navigation_item.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_social.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_social.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/header_comments.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/header_comments.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/fragment_map.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/fragment_map.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/detail_image_activity.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/detail_image_activity.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_search_view.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/dialog.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/detail_event_activity.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/detail_event_activity.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_detail_event_detail.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_detail_event_detail.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/fragment_common.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/fragment_common.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/fragment_common_post.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/fragment_common_post.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_timetable.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_timetable.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/layout.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/student/res/layout/layout.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/app_toolbar.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/app_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_teacher.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_teacher.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/content_scrolling.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/student/res/layout/content_scrolling.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_event.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_event.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/activity_main.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/fragment_common_refresh.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/fragment_common_refresh.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/notification_media_action.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/detail_assignment_activity.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/detail_assignment_activity.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/fragment_pager.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/fragment_pager.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_image.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_image.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_location.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_location.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/intro_activity.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/student/res/layout/intro_activity.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_comment.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_comment.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/intro_fragment_society_item.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/student/res/layout/intro_fragment_society_item.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/intro_fragment_login.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/intro_fragment_login.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/intro_fragment_intro.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/intro_fragment_intro.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/activity_scrolling.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/student/res/layout/activity_scrolling.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/notification_template_media.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/notification_template_lines.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/intro_fragment_complete.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/intro_fragment_complete.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/app_fab.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/app_fab.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/card_no_image.xml",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/layout/card_no_image.xml"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Aashir/Desktop/School/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-nodpi-v4/placeholder_image.jpg",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-nodpi/placeholder_image.jpg"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-nodpi-v4/placeholder_user.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-nodpi/placeholder_user.png"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-nodpi-v4/header_image.jpg",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-nodpi/header_image.jpg"
+    },
+    {
+        "merged": "/Users/Aashir/Desktop/School/app/build/intermediates/res/merged/student/debug/drawable-nodpi-v4/bag.png",
+        "source": "/Users/Aashir/Desktop/School/app/src/main/res/drawable-nodpi/bag.png"
+    }
+]

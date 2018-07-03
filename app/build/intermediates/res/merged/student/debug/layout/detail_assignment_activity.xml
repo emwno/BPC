@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/app_toolbar" />
+
+    <RelativeLayout
+        android:id="@+id/holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:background="@color/primary"
+        android:paddingBottom="@dimen/big_padding"
+        android:paddingLeft="36dp"
+        android:paddingRight="@dimen/big_padding">
+
+        <TextView
+            android:id="@+id/detail_assignment_subject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="50sp" />
+
+        <TextView
+            android:id="@+id/detail_assignment_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/detail_assignment_subject"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/assignment_clock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/detail_assignment_title"
+            android:paddingTop="@dimen/medium_padding"
+            android:src="@drawable/ic_clock_fast_white_18dp" />
+
+        <TextView
+            android:id="@+id/detail_assignment_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/detail_assignment_title"
+            android:layout_toRightOf="@+id/assignment_clock"
+            android:paddingLeft="@dimen/medium_padding"
+            android:paddingRight="@dimen/medium_padding"
+            android:paddingTop="@dimen/medium_padding"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_below="@+id/holder"
+        android:background="@drawable/bottom_shadow" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/holder">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="36dp"
+            android:paddingRight="16dp"
+            android:paddingTop="28dp">
+
+            <TextView
+                android:id="@+id/detail_assignment_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/big_padding"
+                android:paddingTop="@dimen/big_padding" />
+
+            <TextView
+                android:id="@+id/title_due_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/detail_assignment_content"
+                android:paddingBottom="@dimen/small_padding"
+                android:text="DUE ON"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/primary_dark"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/detail_assignment_due_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title_due_time"
+                android:paddingBottom="@dimen/big_padding"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/title_post_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/title_due_time"
+                android:layout_marginLeft="62dp"
+                android:layout_marginStart="62dp"
+                android:layout_toEndOf="@+id/title_teacher"
+                android:layout_toRightOf="@+id/title_teacher"
+                android:paddingBottom="@dimen/small_padding"
+                android:text="POSTED ON"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/primary_dark"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/detail_assignment_post_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/title_post_time"
+                android:layout_alignStart="@+id/title_post_time"
+                android:layout_alignTop="@+id/detail_assignment_due_date"
+                android:paddingBottom="@dimen/big_padding"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/title_teacher"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/detail_assignment_post_date"
+                android:paddingBottom="@dimen/small_padding"
+                android:text="POSTED BY"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/primary_dark"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/detail_assignment_teacher"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title_teacher"
+                android:paddingBottom="@dimen/small_padding"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/detail_assignment_toggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/holder"
+        android:layout_marginRight="@dimen/big_padding"
+        android:layout_marginTop="-28dp"
+        android:baselineAlignBottom="@+id/holder"
+        android:elevation="2dp"
+        android:src="@drawable/ic_check_white_18dp"
+        app:borderWidth="0dp"
+        app:fabSize="normal" />
+
+</RelativeLayout>
